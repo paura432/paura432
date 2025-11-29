@@ -41,9 +41,23 @@ I enjoy creating products that merge backend, infrastructure and frontend to del
 
 ## 📊 GitHub Stats
 
-![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=paura432&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paura432&layout=compact&theme=radical)
+<a>
+    <a href="https://github.com/paura432">
+        <img 
+            alt="Pau Ramos's GitHub Stats" 
+            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=paura432&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&card_width=300" 
+            height="180px"
+        />
+    </a>
+    <a href="https://github.com/paura432">
+        <img 
+            alt="Pau Ramos's Top Languages" 
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=paura432&langs_count=8&layout=compact&hide=Roff,Objective-C,Makefile&theme=vision-friendly-dark&card_width=300" 
+            height="180px"
+        />
+    </a>
+    <br/>
+</a>
 
 ---
 
