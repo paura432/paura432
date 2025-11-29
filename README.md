@@ -43,8 +43,8 @@ I enjoy creating products that merge backend, infrastructure and frontend to del
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paura432&show_icons=true&theme=dark&border_radius=10&hide_rank=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paura432&layout=compact&theme=dark&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark&border_radius=10" />
 
 </div>
 
